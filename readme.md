@@ -7,6 +7,6 @@ this project will develope a module to help kcse graduates in developing softwar
 project setup instructions
 
 
-##links
+links
   [I'm an inline-style link](https://www.google.com)
   [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
