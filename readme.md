@@ -5,8 +5,10 @@
 ## Description
  It is a HTML and CSS website about its understanding.
 ## project setup instructions
-- copy the url on arrow down
-- Clone on your computer
+- Create a file name README.MD in the root(based) folder of the git repo.
+- Add instructions or documentation that you want to share with others 
+- Use markdown to format headings, lists, links.
+- When done, commit the changes and push them to the remote repo.
 - Go live or start your server
 ## Known Bugs
  There are no known bugs.
